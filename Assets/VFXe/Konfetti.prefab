@@ -88,8 +88,12 @@ PrefabInstance:
       value: Konfetti
       objectReference: {fileID: 0}
     - target: {fileID: 7935571400276419659, guid: a7b30f3689578ab47ad5ac460defeea7, type: 3}
+      propertyPath: looping
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7935571400276419659, guid: a7b30f3689578ab47ad5ac460defeea7, type: 3}
       propertyPath: playOnAwake
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7935571400276419659, guid: a7b30f3689578ab47ad5ac460defeea7, type: 3}
       propertyPath: InitialModule.startLifetime.scalar
@@ -200,8 +204,12 @@ PrefabInstance:
       value: Konfetti (2)
       objectReference: {fileID: 0}
     - target: {fileID: 7935571400276419659, guid: a7b30f3689578ab47ad5ac460defeea7, type: 3}
+      propertyPath: looping
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7935571400276419659, guid: a7b30f3689578ab47ad5ac460defeea7, type: 3}
       propertyPath: playOnAwake
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7935571400276419659, guid: a7b30f3689578ab47ad5ac460defeea7, type: 3}
       propertyPath: InitialModule.startLifetime.scalar
@@ -312,8 +320,12 @@ PrefabInstance:
       value: Konfetti (3)
       objectReference: {fileID: 0}
     - target: {fileID: 7935571400276419659, guid: a7b30f3689578ab47ad5ac460defeea7, type: 3}
+      propertyPath: looping
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7935571400276419659, guid: a7b30f3689578ab47ad5ac460defeea7, type: 3}
       propertyPath: playOnAwake
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7935571400276419659, guid: a7b30f3689578ab47ad5ac460defeea7, type: 3}
       propertyPath: InitialModule.startLifetime.scalar
@@ -424,8 +436,12 @@ PrefabInstance:
       value: Konfetti (1)
       objectReference: {fileID: 0}
     - target: {fileID: 7935571400276419659, guid: a7b30f3689578ab47ad5ac460defeea7, type: 3}
+      propertyPath: looping
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7935571400276419659, guid: a7b30f3689578ab47ad5ac460defeea7, type: 3}
       propertyPath: playOnAwake
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7935571400276419659, guid: a7b30f3689578ab47ad5ac460defeea7, type: 3}
       propertyPath: InitialModule.startLifetime.scalar
